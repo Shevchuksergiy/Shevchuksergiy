@@ -26,6 +26,8 @@ Manual QA (junior)
 * 🌍  Я з міста Богуслав Київська обл.
 * ✉️  [DerZoldaten@gmail.com](mailto:DerZoldaten@gmail.com)
 
+
+<h3 align="left">👩‍💻  Моі ще не досконалі, але вже присутні навички</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img 
@@ -88,7 +90,7 @@ Manual QA (junior)
   </a>
 </p>
 
-### Socials
+### Соціальні мережі
 
 <p align="left"> 
   <a href="https://www.github.com/Shevchuksergiy" target="_blank" rel="noreferrer"> 
