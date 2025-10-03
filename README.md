@@ -27,7 +27,7 @@ Manual QA (junior)
 * ✉️  [DerZoldaten@gmail.com](mailto:DerZoldaten@gmail.com)
 
 
-<h3 align="left">👩‍💻  Моі ще не досконалі, але вже присутні навички</h3>
+<h3 align="left">👩‍💻  Мої ще не досконалі, але вже присутні навички</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img 
