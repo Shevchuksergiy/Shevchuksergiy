@@ -75,8 +75,17 @@ Manual QA (junior)
       height="36" 
     />
   </a>
-</p>
 
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://images.icon-icons.com/3053/PNG/512/postman_macos_bigsur_icon_189815.png" 
+      alt="Postman" 
+      title="Postman" 
+      width="36" 
+      height="36" 
+    />
+  </a>
+</p>
 
 ### Socials
 
