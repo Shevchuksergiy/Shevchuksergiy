@@ -118,7 +118,7 @@ Manual QA (junior)
   </a>
   
   <a href="https://t.me/ShevchukSA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="telegram logo"  />
+    <img src="https://images.icon-icons.com/2429/PNG/512/telegram_logo_icon_147228.png" height="32" alt="telegram logo"  />
   </a>
   
 </p>
